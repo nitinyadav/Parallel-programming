@@ -20,6 +20,7 @@ main(int argc, char **argv)
     #endif
     printf("Hello from thread %d out of %d\n", iam, np);
   }
+  cout<<"checking the changes\n";
   
   
   printf("pi=%.15f\n", pi);
